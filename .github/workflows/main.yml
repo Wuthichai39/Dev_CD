@@ -9,5 +9,5 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: Print Name
-        run: echo "Thanap" >> /home/thanap/test.txt
+        run: echo "Thanap" >> /home/thanap35/test.txt
     
