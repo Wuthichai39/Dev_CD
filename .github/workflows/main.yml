@@ -13,5 +13,5 @@ jobs:
       - name: check cursor
         run: pwd
       - name: step 2 copy to deploy
-        run: cp -a ./var/www/html2
+        run: cp index.html /var/www/html2
     
